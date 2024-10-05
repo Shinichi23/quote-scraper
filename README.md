@@ -23,7 +23,7 @@ You can install the required packages using the following command:
 pip install -r requirements.txt
 ```
 
-#Usage
+## Usage
 Clone the repository:
 
 ```bash
@@ -39,7 +39,8 @@ python scraper.py
 
 After running, the quotes will be saved in quotes.csv in the same directory.
 
-#License
+## License
+
 This project is licensed under the MIT License.
 
 ```vbnet
